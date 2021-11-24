@@ -121,3 +121,19 @@ label{
     border-radius: 50%;
     margin-left: 12px;
 }
+
+.salary-output{
+    width: 80px;
+}
+select{
+    margin-right: 10px;
+    padding: 12px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    font: normal normal normal 16px Roboto;
+    letter-spacing: 0px;
+    color: #42515f;
+    width: 150px;
+}
